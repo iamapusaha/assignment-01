@@ -45,6 +45,7 @@
     color: #FFFFFF;
     background: #F15B22;
     border-radius: 5px;
+    border: none;
 
 }
 
@@ -160,4 +161,104 @@
     border: none;
     border-radius: 5px;
 
+}
+
+/* footer section styles  */
+
+.footer {
+    background: #151414;
+    ;
+}
+
+.footer-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 75%;
+    margin: 0 auto;
+    padding: 130px 0;
+}
+
+.contact {
+    width: 485px;
+}
+
+.contact-title {
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    color: #F8F8F8;
+    margin-bottom: 16px;
+}
+
+.contact-discription {
+    color: #FFFFFF;
+    margin-bottom: 16px;
+}
+
+.contact-email {
+    color: #FFFFFF;
+    margin-bottom: 16px;
+}
+
+.contact-phn {
+    color: #FFFFFF;
+    margin-bottom: 32px;
+}
+
+.contact i {
+    margin-right: 10px;
+}
+
+.fa-facebook {
+    font-size: 50px;
+    background-color: #F8F8F8;
+    color: #4267B2;
+    border-radius: 50%;
+}
+
+.fa-twitter {
+    font-size: 50px;
+    background-color: #F8F8F8;
+    color: #00acee;
+    border-radius: 50%;
+
+}
+
+.fa-youtube {
+    font-size: 50px;
+    background-color: #F8F8F8;
+    color: #c4302b;
+    border-radius: 50%;
+}
+
+.subscribe {
+    width: 325px;
+}
+
+.subscribe-title {
+    font-weight: 600;
+    font-size: 25px;
+    color: #FFFFFF;
+    margin-bottom: 31px;
+}
+
+.subscribe-email {
+    width: 60%;
+    padding: 10px 10px;
+    border: 1px solid #FFFFFF;
+    border-radius: 10px;
+    color: #F3F3F3;
+    background: #151414;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+
+.btn-subscribe {
+    font-weight: 600;
+    font-size: 20px;
+    color: #F15B22;
+    padding: 10px 21px;
+    border-radius: 10px;
+    background: #FFFFFF;
 }
