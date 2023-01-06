@@ -123,3 +123,41 @@
     font-size: 25px;
     color: #737272;
 }
+
+/* mindset section style  */
+.mindset {
+    width: 75%;
+    height: 300px;
+    background-image: url(../assets/media/images/watch.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto 100px;
+    border-radius: 8px;
+
+}
+
+.mindset-info {
+    width: 459px;
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+    padding: 59px 847px 60px 64px;
+    border-radius: 8px;
+}
+
+.mindset-title {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
+    margin-bottom: 24px;
+}
+
+.btn-mindset {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    color: #F15B22;
+    padding: 20px 36px;
+    border: none;
+    border-radius: 5px;
+
+}
