@@ -86,3 +86,40 @@
 .about-list i {
     color: #16D887;
 }
+
+/* my plan section styles  */
+.my-plan {
+    width: 75%;
+    margin: 0 auto;
+    padding-bottom: 130px;
+}
+
+.my-plan-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    margin-bottom: 50px;
+}
+
+.plan-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.plan-title {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #151414;
+    margin-bottom: 16px;
+}
+
+.plan-discription {
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}
