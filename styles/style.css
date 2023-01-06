@@ -80,12 +80,9 @@
 
 }
 
-.about-list {
-    list-style: none;
-}
-
 .about-list i {
     color: #16D887;
+    margin-bottom: 8px;
 }
 
 /* my plan section styles  */
