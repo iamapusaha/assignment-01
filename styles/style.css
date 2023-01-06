@@ -1,9 +1,9 @@
-/* banner section  */
 * {
     margin: 0;
     font-family: 'Work Sans', sans-serif;
 }
 
+/* banner section style */
 .banner {
     background-image: url(../assets/media/images/banner/banner1.png);
     background-repeat: no-repeat;
@@ -46,4 +46,43 @@
     background: #F15B22;
     border-radius: 5px;
 
+}
+
+/* about section section style  */
+.about {
+    width: 75%;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    padding: 130px 0;
+    justify-content: space-evenly;
+}
+
+.about-img {}
+
+.about-info {
+    width: 416px;
+}
+
+.about-title {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    margin-bottom: 24px;
+}
+
+.about-discription {
+    line-height: 26px;
+    color: #444343;
+    margin-bottom: 16px;
+
+}
+
+.about-list {
+    list-style: none;
+}
+
+.about-list i {
+    color: #16D887;
 }
